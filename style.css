@@ -1,0 +1,140 @@
+.myh1{
+    font-size:40px;
+    font-weight:bold;
+    /* background-color:bisque; */
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    border: 2px solid purple ;
+    background-color:antiquewhite;
+}
+#value{
+     font-size: 40px;
+     font-weight:bold;
+     display: flex;
+     justify-content: center;
+     align-items: center ;
+     border: 2px solid purple ;
+     background-color:aqua;
+}
+
+
+
+ #b1{
+    font-size:20px;
+    /* font-weight:800; */
+    background-color:aquamarine;
+    border-radius:30px;
+    border: 2px solid rgb(139, 75, 75) ;
+    padding:4px 3px ;
+    margin: 4px 3px ;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    /* font-size:25px; */
+    font-weight:bold;
+    border-radius: 20px ;
+}
+
+
+#b1:hover{
+    background-color:rgb(6, 190, 129) ;
+    font-weight:700;
+    font-size:21px;
+} 
+.all-buttons{
+   /* margin: 5px 10px; */
+   /* font-size: 5px; */
+   font-weight: bold;
+   /* padding: 5px 12px ; */
+   /* width: 350px; */
+   /* height:247px; */
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    border: 2px solid purple ;
+    background-color:rgb(136, 70, 70);
+}
+
+#b2{
+    font-size:20px;
+    font-weight:bold;
+    background-color:aquamarine;
+    border-radius:20px;
+    padding:4px 3px ;
+    margin: 4px 3px ;
+    border: 2px solid rgb(139, 75, 75) ;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+#b2:hover{
+    /* background-color:rgb(14, 233, 160) ; */
+    background-color:rgb(6, 190, 129) ;
+    font-weight:700;
+    font-size:21px;
+}
+
+#b3{
+    font-size:20px;
+    font-weight:bold;
+    background-color:aquamarine;
+    border-radius:20px;
+    padding:4px 3px ;
+    margin: 4px 3px ;
+    border: 2px solid rgb(139, 75, 75) ;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+#b3:hover{
+    /* background-color:rgb(14, 233, 160) ; */
+    background-color:rgb(6, 190, 129) ;
+    font-weight:700;
+    font-size:21px;
+}
+
+.main{
+    border: 2px solid yellow;
+    /* width: 350px;
+    height:247px; */
+    display: block;
+    justify-content: center ;
+    align-items: center ;
+  
+}
+.big{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center ;
+    align-items: center ;
+}
+.button1{
+    font-size:35px;
+    font-weight:bold;
+    border-radius: 30px ;
+    margin: 5px 8px;
+    padding: 12px 8px ;
+}
+
+.button2{
+    font-size:35px;
+    font-weight:bold;
+    border-radius: 30px ;
+    margin: 5px 8px;
+    padding: 12px 8px ;
+}
+
+.button3{
+    font-size:35px;
+    font-weight:bold;
+    border-radius: 30px ;
+    margin: 5px 8px;
+    padding: 12px 8px ;
+}
+
